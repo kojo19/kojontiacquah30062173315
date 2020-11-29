@@ -1,13 +1,22 @@
 package com.example.myapplication;
-
-import androidx.appcompat.app.AppCompatActivity;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.RelativeLayout;
-import android.widget.Toast;
-import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+public class package com.example.myapplication;
+
+        import androidx.appcompat.app.AppCompatActivity;
+        import android.graphics.Color;
+        import android.os.Bundle;
+        import android.view.View;
+        import android.widget.EditText;
+        import android.widget.RelativeLayout;
+        import android.widget.Toast;
+        import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
     EditText el = findViewById(R.id.R1_layout),e2,e3;
     RelativeLayout r1;
@@ -39,4 +48,5 @@ public class MainActivity extends AppCompatActivity {
             rl.ackgroundColor(Color.rgb(rgb1,rgb2,rgb3));
         }
     }
+    vMainActivity {
 }
