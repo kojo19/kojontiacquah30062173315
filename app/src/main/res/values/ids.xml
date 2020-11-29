@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="label_color" type="id">color</item>
+    <item name="et1" type="id"> B ( 0-255) </item>
+    <item name="et2" type="id"> R ( 0-255) </item>
+    <item name="et3" type="id"> g ( 0-255) </item>
+    <item name="btncoloching" type="id">btncolching</item>
+</resources>
